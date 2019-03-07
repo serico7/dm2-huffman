@@ -682,7 +682,10 @@ n206
 ** Study and Extend Some Sample Code
 
 
-** Connections
+** Thoughts We Had
+
+
+** Connections We Made
 
    I was first exposed to Huffman Codes in CS235.
    I thought that it was very cool. I'll probably go 
@@ -691,6 +694,7 @@ n206
 
 ** Contributors
 
+   - Sean Conley
    - Grayson
    - Taylor
    - Luke
